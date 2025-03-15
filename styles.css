@@ -43,7 +43,7 @@ nav {
   padding: 8rem 2rem 4rem;
   text-align: center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("jpegs/IMG_0097.JPG");
+    url("./jpegs/IMG_0097.jpg");
   background-size: cover;
   background-position: center;
   color: white;
